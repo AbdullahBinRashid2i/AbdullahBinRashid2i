@@ -1,36 +1,63 @@
-# Hi there, I'm Abdullah Bin Rashid! 👋
+<!-- Animated Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Abdullah%20Bin%20Rashid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BS%20Computer%20Science%20Student%20@%20GU%20TECH&descAlignY=55&descSize=18"/>
 
-🎓 **First-Semester BS Computer Science Student @ GU TECH**  
-🌱 **Beginner in Tech | Learning the Basics of Programming**
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Abdullah+%F0%9F%91%8B;First-Semester+CS+Student+%F0%9F%8E%93;Learning+Programming+Step+by+Step+%F0%9F%92%BB;Beginner+in+Tech+%26+Always+Curious+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-I am an undergraduate Computer Science student based in Karachi, Pakistan. I am just starting my journey into programming and technology at university, and I created this GitHub profile to track my progress and share what I learn along the way.
+---
+
+### 👨‍💻 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
+- 🎓 **Education:** 1st Semester BS Computer Science Student at **GU TECH** (Karachi, Pakistan)
+- 🌱 **Current Status:** Beginner in tech—learning the fundamentals of programming from scratch!
+- 🎯 **Goal:** Building a strong foundation in logic, problem-solving, and coding step by step.
+- 💬 **Ask me about:** My university journey, tech interests, and what I'm learning in class!
+
+<br clear="both"/>
 
 ---
 
 ### 🔭 Current Learning Goals
-- 💻 Learning foundational programming concepts from scratch in my first semester.
-- 🛠️ Understanding how to use **Git & GitHub** to manage code and assignments.
-- 📚 Building a strong base in Computer Science fundamentals, logic building, and problem-solving.
-- 🚀 Exploring different areas of tech (like web development, software, and game design) to find what excites me most.
+- 💻 Understanding core programming concepts in my first-semester courses.
+- 🛠️ Learning how to use **Git & GitHub** to save and manage my class assignments.
+- 🧩 Practicing basic problem-solving and logic building.
 
 ---
 
-### 🛠️ Tools & Technologies I'm Exploring
+### 🛠️ Tools & Languages I'm Exploring
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,vscode,git,github&perline=6" alt="Tech Icons" />
+</div>
 
 ---
 
-### 📌 Upcoming Highlights
-- 📂 **University Coursework & Lab Assignments:** I will be uploading my first-semester programming practice and class projects here soon!
-- 🎯 **First Mini-Projects:** Working toward building my first simple programs as I learn more in class.
+### 📌 Upcoming Project Highlights
+- 📂 **University Lab Assignments:** Uploading my first-semester coding practice and coursework here soon.
+- 🚀 **First Mini-Projects:** Working toward building my very first simple programs as I learn more in class.
+
+---
+
+### 📊 My GitHub Activity
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" />
+</div>
 
 ---
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bin-rashid-/)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<!-- Animated Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=110&section=footer"/>
